@@ -32,6 +32,9 @@
     background:linear-gradient(to bottom, #1C1C1C, #010101);
     position: relative;
 }
+.partnershipRev{
+    padding-top:50px !important;
+}
 .whoAreWe h1 {
     line-height: 1.75;
    

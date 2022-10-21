@@ -50,7 +50,7 @@ img{
     max-width: 100%;
     image-rendering:-webkit-optimize-contrast;
 }
-h1,h2,h3,h4 {
+h1,h2,h3 {
     font-family: 'Druk';
     color:#fff;
     line-height: 1.2;
@@ -58,9 +58,11 @@ h1,h2,h3,h4 {
 }
 h1 *,
 h2 *,
-h3 *,
-h4 * {
+h3 * {
     font-family: 'Druk';
+}
+h4 * , h4{
+    font-family: 'Poppins';
 }
 h1 *,
 h1{
